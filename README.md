@@ -17,8 +17,9 @@
 ## Projects:
 
 # CHECKIT - AN AUTOMATIC ATTENDANCE WEB APP  
- link: https://checkit-bmsce.herokuapp.com/
- or scan qr
+ - link: https://checkit-bmsce.herokuapp.com/
+ - OR
+ - scan qr
 ![qr for checkit](https://user-images.githubusercontent.com/71318008/161402171-f1adfddc-3da9-47d0-a65b-de0a563fe08a.png)
 
 # JAVA Graph Simulator - an awt/swing based 
@@ -35,8 +36,8 @@ USING IO SOCKETS link: https://gapshap-chat.herokuapp.com
 
 
 
-## social media
+### social media
 
--linkedin : https://www.linkedin.com/in/amit-kumar-247b26223/ 
--instagram : https://www.instagram.com/bhagat_amit13/
+- linkedin : https://www.linkedin.com/in/amit-kumar-247b26223/ 
+- instagram : https://www.instagram.com/bhagat_amit13/
 - facebook: https://www.facebook.com/amit70512
