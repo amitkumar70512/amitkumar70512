@@ -17,6 +17,7 @@
 ## Projects:
 
 # CHECKIT - AN AUTOMATIC ATTENDANCE WEB APP
-SCAN IT:![qr for checkit](https://user-images.githubusercontent.com/71318008/161402106-029d5d9b-cb12-4303-8079-c14f59d4f6cc.png)
+SCAN IT:![qr for checkit](https://user-images.githubusercontent.com/71318008/161402171-f1adfddc-3da9-47d0-a65b-de0a563fe08a.png)
+
 
 
