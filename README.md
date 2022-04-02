@@ -20,7 +20,13 @@
  - link: https://checkit-bmsce.herokuapp.com/
  - OR
  
-- ![qr for checkit](https://user-images.githubusercontent.com/71318008/161402171-f1adfddc-3da9-47d0-a65b-de0a563fe08a.png)
+ ![qr for checkit](https://user-images.githubusercontent.com/71318008/161402171-f1adfddc-3da9-47d0-a65b-de0a563fe08a.png)
+ 
+ 
+ 
+ 
+ ![CHECKIT](https://user-images.githubusercontent.com/71318008/161403107-e51afc8b-a172-44e4-8b98-84368c1bcb62.gif)
+
 
 # JAVA Graph Simulator - an awt/swing based 
 
