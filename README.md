@@ -32,7 +32,8 @@
 
 - github link: https://github.com/amitkumar70512/java_miniproject_graphSimulator
 
-![java qr simulator ](https://user-images.githubusercontent.com/71318008/161402606-bebae93a-f39b-4808-9001-ef9f10156593.jpg)
+![CHECKIT](https://user-images.githubusercontent.com/71318008/161403540-525ae18a-033a-4956-99ee-fa23104f94d0.gif)
+
 
 # GAPSHAP - A REAL TIME CHAT APPLICATION
 
