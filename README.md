@@ -19,12 +19,12 @@
 # CHECKIT - AN AUTOMATIC ATTENDANCE WEB APP  
  - link: https://checkit-bmsce.herokuapp.com/
  - OR
- - scan qr
-![qr for checkit](https://user-images.githubusercontent.com/71318008/161402171-f1adfddc-3da9-47d0-a65b-de0a563fe08a.png)
+ 
+- ![qr for checkit](https://user-images.githubusercontent.com/71318008/161402171-f1adfddc-3da9-47d0-a65b-de0a563fe08a.png)
 
 # JAVA Graph Simulator - an awt/swing based 
 
-github link: https://github.com/amitkumar70512/java_miniproject_graphSimulator
+- github link: https://github.com/amitkumar70512/java_miniproject_graphSimulator
 
 ![java qr simulator ](https://user-images.githubusercontent.com/71318008/161402606-bebae93a-f39b-4808-9001-ef9f10156593.jpg)
 
