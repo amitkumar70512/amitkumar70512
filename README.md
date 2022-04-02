@@ -16,8 +16,27 @@
 
 ## Projects:
 
-# CHECKIT - AN AUTOMATIC ATTENDANCE WEB APP
-SCAN IT:![qr for checkit](https://user-images.githubusercontent.com/71318008/161402171-f1adfddc-3da9-47d0-a65b-de0a563fe08a.png)
+# CHECKIT - AN AUTOMATIC ATTENDANCE WEB APP  (scan qr)
+ link: https:checkit-bmsce.herokuapp.com
+ 
+![qr for checkit](https://user-images.githubusercontent.com/71318008/161402171-f1adfddc-3da9-47d0-a65b-de0a563fe08a.png)
+
+# JAVA Graph Simulator - an awt/swing based 
+
+github link: github.com/amitkumar70512/java_miniproject_graphSimulator
+
+![java qr simulator ](https://user-images.githubusercontent.com/71318008/161402606-bebae93a-f39b-4808-9001-ef9f10156593.jpg)
+
+# GAPSHAP - A REAL TIME CHAT APPLICATION
+
+USING IO SOCKETS link: https://gapshap-chat.herokuapp.com 
+
+![image](https://user-images.githubusercontent.com/71318008/161402724-4aa3b38e-1776-4e7e-ad5e-8203e8346b33.png)
 
 
 
+## social media
+
+--linkedin : https://www.linkedin.com/in/amit-kumar-247b26223/
+--instagram : https://www.instagram.com/bhagat_amit13/
+-- facebook: https://www.facebook.com/amit70512
