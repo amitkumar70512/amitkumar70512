@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**amitkumar70512/amitkumar70512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+
+
+## Projects:
+
+# CHECKIT - AN AUTOMATIC ATTENDANCE WEB APP
+SCAN IT:![qr for checkit](https://user-images.githubusercontent.com/71318008/161402106-029d5d9b-cb12-4303-8079-c14f59d4f6cc.png)
+
+
