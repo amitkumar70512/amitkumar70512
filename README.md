@@ -7,7 +7,7 @@
 
 <hr>
 
-# CHECKIT - AN AUTOMATIC ATTENDANCE WEB APP  
+# [CHECKIT](https://checkit-bmsce.azurewebsites.net/) - AN AUTOMATIC ATTENDANCE WEB APP  
  
 
  
