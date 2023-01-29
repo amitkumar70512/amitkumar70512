@@ -1,12 +1,4 @@
 
-<hr>
-
-![CHECKIT](https://user-images.githubusercontent.com/71318008/161404275-6447cf6e-0e9a-4865-968f-631585a5e7ac.gif)
-
-
-
-<hr>
-
 # [CHECKIT](https://checkit-bmsce.azurewebsites.net/) - AN AUTOMATIC ATTENDANCE WEB APP  
  
 
