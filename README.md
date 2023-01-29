@@ -2,11 +2,6 @@
 # [CHECKIT](https://checkit-bmsce.azurewebsites.net/) - AN AUTOMATIC ATTENDANCE WEB APP  
  
 
- 
- 
- 
- ![CHECKIT](https://user-images.githubusercontent.com/71318008/161403107-e51afc8b-a172-44e4-8b98-84368c1bcb62.gif)
-
 <hr>
 
 # JAVA Graph Simulator - an awt/swing based 
@@ -19,7 +14,7 @@
 
 # GAPSHAP - A REAL TIME CHAT APPLICATION
 
-USING IO SOCKETS link: https://gapshap-chat.herokuapp.com 
+USING IO SOCKETS 
 
 ![image](https://user-images.githubusercontent.com/71318008/161402724-4aa3b38e-1776-4e7e-ad5e-8203e8346b33.png)
 
